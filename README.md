@@ -10,13 +10,13 @@ At the start of the game, balloons  move bottom to up of the screen. If user can
 - User friendly environment.
 
 ## Built with:
-- Opengl 3.0
-- C++
+- [Opengl 3.0](https://www.opengl.org/)
+- [c++](http://www.cplusplus.com/)
 
 ## Key Controls:
-- S – To start the game.
-- Mouse left button – To release arrow from left to right
-- Esc – To restart the game when there is no life
+- <b>S</b> – To start the game.
+- <b>Mouse left button</b> – To release arrow from left to right
+- <b>Esc</b> – To restart the game when there is no life
 
 ## Demos:
 Start screen of Shooting Balloon    |  Game Play 1    | Game finish and showing total score
